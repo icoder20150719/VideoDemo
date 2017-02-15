@@ -1,5 +1,6 @@
 # VideoDemo
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
+![image](https://github.com/icoder20150719/VideoDemo/blob/master/image/001.PNG)
+![image](https://github.com/icoder20150719/VideoDemo/blob/master/image/002.PNG)
 
 ##iOS视频、音频的录制、播放##
 iOS系统视频录制有两种方式，简单的录制使用 UIImagePickerController 就可以了，如果想要实现自定功能的录制就需要用AVFoundation框架AVCaptureSession 了。下面是  UIImagePickerController 使用。
